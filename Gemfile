@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'gsl'
+gem 'gsl', git: 'git://github.com/LeFnord/rb-gsl.git'
 gem 'fast-stemmer'
 
 group :test, :development do

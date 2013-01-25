@@ -15,6 +15,10 @@ Documentation: http://github.com/josephwilk/rsemantic/wikis/home
 
 ## INSTALL:
 
+This version could be used with GSL 1.15, by using this fork [rb gsl](git://github.com/LeFnord/rb-gsl.git).
+
+---
+
 Note 'brew install GSL' installs 1.15 which is not supported yet by the gsl gem. So you have to switch your GSL version to 1.14.
 With homebrew try this:
 
