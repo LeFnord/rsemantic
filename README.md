@@ -15,7 +15,7 @@ Documentation: http://github.com/josephwilk/rsemantic/wikis/home
 
 ## INSTALL:
 
-This version could be used with GSL 1.15, by using this fork [rb gsl](git://github.com/LeFnord/rb-gsl.git).
+This version could be used with GSL 1.15, by using this fork https://github.com/LeFnord/rb-gsl
 
 ---
 
